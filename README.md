@@ -30,6 +30,9 @@ I don't fully remember the statistics question this is based off from, but it in
 and when their sums would be less than 7.   
 This method uses recursion, so it has limits for the combinations and sums it can find before overflowing the stack.
 
+## normal_dist.py
+Another learning tool, these methods fail to compete with scipy's superior maths.
+I didn't get to the point I fully understood what was happening with my errors, or why my results were close, but still wrong. I left it in the repo, because.... why not.
 
 
 
