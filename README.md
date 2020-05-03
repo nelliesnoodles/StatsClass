@@ -23,6 +23,15 @@ Comments and a link to the Khan Academy video are in the file to explain the bin
 
 This runs in your command prompt and asks for values then returns the mathy bits back in print() statements.
 
+## n_less.py
+This code was created when I spotted a pattern when trying to find a solution to one of my statistic class problems.  
+Once again, there are simpler ways to use math libraries to obtain these results, and I was just trying to learn by coding.  
+I don't fully remember the statistics question this is based off from, but it involved finding all results of rolling two six sided dice
+and when their sums would be less than 7.   
+This method uses recursion, so it has limits for the combinations and sums it can find before overflowing the stack.
+
+
+
 
 
 
