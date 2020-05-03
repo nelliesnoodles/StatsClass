@@ -18,7 +18,14 @@ The values for class BinomDist() init:
  * probability_of
  * inverse_probability_of
  
- 
+## binom_dist.py
+Comments and a link to the Khan Academy video are in the file to explain the binomial Deviation and binomial Variance.  
+
+This runs in your command prompt and asks for values then returns the mathy bits back in print() statements.
+
+
+
+
 
 
 
