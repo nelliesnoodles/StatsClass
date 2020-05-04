@@ -40,7 +40,16 @@ The class contained in this file uses xlxswriter import to get data from the com
 It is not practicle or useful particularly because it's easier just to enter the data yourself.  It was a learning experiment, and I found it useful in the process of seeing how data could be moved around to different programs.
 
 
+## !WARNING INCOMPLETE CODE!
+## !   toExcelLineChart.py   !
+This code is not yet completed.  As I worked on it my brain decided it was a somewhat pointless exercise to create a line chart with this instead of just using one of the many, many, many tools available that can already allow you to manipulate and create amazing line charts. 
 
+
+# As with much of my code, I encourage others to use it and learn from it.
+I have started an app for students to use when going through their first stats class, but have only gotten as far as 
+basic probability.  This app is not a priority at the moment, but if you'd like to check out what I've built so far:
+_<is not tested for mobile fully, and is a work in progress>_
+[StatsClass-basic probability](https://nelliesnoodles.pythonanywhere.com/BasicProbability)
 
 
 
