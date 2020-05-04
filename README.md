@@ -35,6 +35,12 @@ Another learning tool, these methods fail to compete with scipy's superior maths
 I didn't get to the point I fully understood what was happening with my errors, or why my results were close, but still wrong. I left it in the repo, because.... why not.
 
 
+## toExel.py
+The class contained in this file uses xlxswriter import to get data from the command line user input and write it to an excel file.  
+It is not practicle or useful particularly because it's easier just to enter the data yourself.  It was a learning experiment, and I found it useful in the process of seeing how data could be moved around to different programs.
+
+
+
 
 
 
