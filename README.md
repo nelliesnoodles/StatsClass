@@ -1,4 +1,8 @@
 # StatsClass
+
+![Screenshot of StatsClass website header](https://res.cloudinary.com/dhsqdw1tp/image/upload/v1588551972/statsClass_HEADER_c9cjpd.jpg)
+
+
 A gathering place for all my stat's class python code.
 
 Many math formulas are easy to use from different popular python libraries,
